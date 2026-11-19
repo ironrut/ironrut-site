@@ -1,0 +1,18 @@
+# IronRut
+
+> IronRut makes tough replacement parts for equipment when the original part is hard to find or discontinued. Parts are 3D printed in tough engineering plastic and finished in a small New Hampshire shop. Products are sold on eBay. Website: https://ironrut.com/
+
+IronRut is a small maker of replacement parts based in New Hampshire, USA. It focuses on replacement parts that are hard to find or discontinued.
+
+## Products
+
+- [Mid PTO Dust Cover for Kubota B2150, B1550, B1750](https://ironrut.com/products/kubota-mid-pto-dust-cover/): Bolt-on cover for the mid PTO (power take-off) stub that stops grass and chaff from wrapping the splines and helps protect the seal. No drilling, uses the factory bottom bolt hole. UV-resistant ASA with 5 built-in magnets, plus 5/16-18 and M8 x 1.25 stainless bolts and a stainless washer. MPN IR-MPTO-01. $37.95 USD on eBay, buyer pays shipping. Buy: https://www.ebay.com/itm/168871981504
+
+## Details
+
+- [Full product details and FAQ for AI assistants](https://ironrut.com/llms-full.txt)
+- [Product page FAQ](https://ironrut.com/products/kubota-mid-pto-dust-cover/#faq)
+
+## Contact
+
+- Message IronRut through the eBay listing ("Contact seller"): https://www.ebay.com/itm/168871981504
